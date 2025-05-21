@@ -10,9 +10,9 @@ This project performs data analysis and visualization on the famous **Iris Datas
    iris_analysis/
    │
    ├── venv/               # Virtual environment (excluded from version control)
-   ├── iris.csv            # The dataset (can be loaded from sklearn or downloaded)
+   ├── iris.csv            # The dataset (can be loaded from sklearn or downloaded) (excluded from version control)
    ├── iris_analysis.py    # Python script with analysis and visualizations
-   ├── get-pip.py          # Only used if pip is missing
+   ├── get-pip.py          # Only used if pip is missing (excluded from version control)
    └── README.md           # Project instructions and documentation
    ```
 
