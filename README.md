@@ -6,13 +6,15 @@ This project performs data analysis and visualization on the famous **Iris Datas
 
 ## 📁 Project Structure
 
-iris_analysis/
-│
-├── venv/ # Virtual environment (excluded from version control)
-├── iris.csv # The dataset (can be loaded from sklearn or downloaded)
-├── iris_analysis.py # Python script with analysis and visualizations
-├── get-pip.py # Only used if pip is missing
-└── README.md # Project instructions and documentation
+   ```text
+   iris_analysis/
+   │
+   ├── venv/               # Virtual environment (excluded from version control)
+   ├── iris.csv            # The dataset (can be loaded from sklearn or downloaded)
+   ├── iris_analysis.py    # Python script with analysis and visualizations
+   ├── get-pip.py          # Only used if pip is missing
+   └── README.md           # Project instructions and documentation
+   ```
 
 ---
 
