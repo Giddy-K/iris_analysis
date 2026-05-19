@@ -1,10 +1,10 @@
-# 🌸 Iris Dataset Analysis with Pandas & Matplotlib
+# Iris Dataset Analysis with Pandas & Matplotlib
 
 This project performs data analysis and visualization on the famous **Iris Dataset** using Python, `pandas`, and `matplotlib`. It includes data exploration, basic statistics, error handling, and four types of visualizations.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
    ```text
    iris_analysis/
@@ -18,9 +18,9 @@ This project performs data analysis and visualization on the famous **Iris Datas
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Python 3.8 or higher (from [python.org](https://www.python.org/downloads/))
 - VS Code with Python extension
@@ -28,7 +28,7 @@ This project performs data analysis and visualization on the famous **Iris Datas
 
 ---
 
-### ⚙️ Step 1: Set Up Virtual Environment
+### Step 1: Set Up Virtual Environment
 
 1. Open the project folder in VS Code.
 2. Create the virtual environment:
@@ -52,13 +52,13 @@ This project performs data analysis and visualization on the famous **Iris Datas
    venv\Scripts\activate
    ```
 
-### 📦 Step 2: Install Required Packages
+### Step 2: Install Required Packages
 
    ```bash
    pip install pandas matplotlib seaborn
    ```
 
-## 📊 Dataset: Iris
+## Dataset: Iris
 
 A classic dataset used for classification and pattern recognition.
 
@@ -70,9 +70,9 @@ Consists of 150 samples of iris flowers with features like:
 
 - Species (Setosa, Versicolor, Virginica)
   
-## 🧠 Features Implemented
+## Features Implemented
 
-### 📝 Task 1: Load and Explore Dataset
+### Task 1: Load and Explore Dataset
 
 - Load data from CSV (or from sklearn.datasets.load_iris)
 
@@ -82,13 +82,13 @@ Consists of 150 samples of iris flowers with features like:
 
 - Clean the data
 
-### 📈 Task 2: Basic Data Analysis
+### Task 2: Basic Data Analysis
 
 - Compute statistics: mean, std, median
 
 - Group by species and compute average petal/sepal lengths
 
-### 📊 Task 3: Data Visualization
+### Task 3: Data Visualization
 
 - Line Chart – Trend over samples
 
@@ -108,7 +108,7 @@ Consists of 150 samples of iris flowers with features like:
 
 - Color themes using seaborn
 
-### 🧪 Error Handling
+### Error Handling
 
 Gracefully handles:
 
@@ -118,7 +118,7 @@ Gracefully handles:
 
 - Type errors in numeric operations
 
-## 🚀 Running the Script
+## Running the Script
 
 After activating the virtual environment:
 
@@ -126,13 +126,13 @@ After activating the virtual environment:
    python iris_analysis.py
    ```
 
-### 📸 Sample Output
+### Sample Output
 
 - output.png (optional): Contains saved visualizations.
 
 - Console: Displays summary statistics and success messages.
 
-### 🗃️ Additional Notes
+### Additional Notes
 
 Dataset can be downloaded or imported directly using:
 
@@ -140,7 +140,7 @@ Dataset can be downloaded or imported directly using:
     from sklearn.datasets import load_iris
    ```
 
-## ✅ Learning Outcomes
+## Learning Outcomes
 
 - File handling and error management in Python
 - Data analysis using pandas
