@@ -147,4 +147,4 @@ Dataset can be downloaded or imported directly using:
 - Data visualization using matplotlib & seaborn
 - Using virtual environments in VS Code
 
-***Happy Analyzing! 🌸📊🐍***
+***Happy Analyzing!***
